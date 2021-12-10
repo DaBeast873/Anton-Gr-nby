@@ -2,6 +2,7 @@ A unity game programmer who's right now studying 2nd year of game programming at
 [A snowboarding game me and a group of classmates made in ca 1 month](https://www.youtube.com/watch?v=06yZxxC6lMM)
 
 An upgrade system I made for a school project
+
 ``
 private void UpdateGun()
         {
