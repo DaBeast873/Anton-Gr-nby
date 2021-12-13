@@ -5,7 +5,25 @@ A unity game programmer who's right now studying 2nd year of game programming at
 
 <h1>STEEZY</h1>
 
-A snowboarding game me and a group of classmates made in ca 1 month that won the competition the school was holding. It also gained some interrest from investors stationed in Skellefteå. My role in the project was as Backend Programmer so I coded all the UI and also started on a leaderboard before 
+A snowboarding game me and a group of classmates made in ca 1 month that won the competition the school was holding. It also gained some interrest from investors stationed in Skellefteå. My role in the project was as Backend Programmer so I coded all the UI and also started on a leaderboard before the deadline
+
+Below is a function I used to calculate the total time it took the player to finish a track
+```
+/// <summary>
+/// Times and measure the amount of time spent on the level
+/// </summary>
+
+private void StopWatchCalculation()
+{
+    m_AmountOfTime += Time.deltaTime;
+    m_Milliseconds = (m_AmountOfTime % 1) * 1000;
+    m_Seconds = (int)(m_AmountOfTime  %60);
+    m_Minutes = (int)(m_AmountOfTime / 60);      
+    
+    stopwatchText.text = m_Minutes.ToString("00") + ":" + m_Seconds.ToString("00") + ":" 
+    + m_Milliseconds.ToString("000");
+}
+```
 
 Here's a gameplay trailer of the game
 
@@ -13,11 +31,10 @@ https://user-images.githubusercontent.com/35632133/145803271-d20c089d-05cf-4ea8-
 
 <h1>Wands A Blazing</h1>
 
-An upgrade system I made for a battle royale game
+A battle royale game that I worked on this fall with another programmer and 3 UX designers.
+My role in the project was as a gameplay programmer, so I coded the combat, the UI as well as assisting the backend programmer if needed
 
-[Trailer](https://youtu.be/vSWZHTEP5Oc)
-
-
+An upgrade system I made for the game
 
 ``` 
         private void UpdateGun()
@@ -31,12 +48,37 @@ An upgrade system I made for a battle royale game
         }      
 ```
 
+[Trailer](https://youtu.be/vSWZHTEP5Oc)
+
 <h1>Blorb</h1>
 
-I'm right now working with some 1st year classmates on a mobile plattformer for Android and IOS where I'm the head programmer
+I'm right now working with some 1st year classmates on a mobile plattformer for Android and IOS where I'm the head programmer.
 Some gameplay below
 
 ![Blorb gameplay](https://user-images.githubusercontent.com/35632133/145793548-617f3b51-28aa-4dc0-a114-c5e690af0d6e.gif)
+
+Below is a coroutine I created that lets the player smoothly switch between 3 different sizes 
+
+```
+ private IEnumerator ScaleOverTime(Vector3 toScale)
+        {
+            if (_isScaling) yield break;
+
+            _isScaling = true;
+
+            float counter = 0;
+
+            Vector3 startSize = transform.localScale;
+
+            while (counter < scaleDuration)
+            {
+                counter += Time.deltaTime;
+                transform.localScale = Vector3.Lerp(startSize, toScale, counter / scaleDuration);
+                yield return null;
+            }
+            _isScaling = false;
+        }
+```
 
 <h1>Contact me</h1>
 
