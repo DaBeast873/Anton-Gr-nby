@@ -37,4 +37,7 @@ If you would like to contact me:
 
 email: antonwg90@gmail.com
 
+
 phone: (+46)702393292
+
+[Here is my CV if you're interested](https://github.com/DaBeast873/Anton-Gr-nby/files/7703176/CV.English.pdf)
