@@ -6,11 +6,18 @@ A unity game programmer who's right now studying 2nd year of game programming at
 <h1>STEEZY</h1>
 
 A snowboarding game me and a group of classmates made in ca 1 month that won the competition the school was holding. It also gained some interrest from investors stationed in Skellefteå. My role in the project was as Backend Programmer so I coded all the UI and also started on a leaderboard before 
-[Here is the trailer](https://www.youtube.com/watch?v=06yZxxC6lMM)
+
+Here's a gameplay trailer of the game
+
+https://user-images.githubusercontent.com/35632133/145803271-d20c089d-05cf-4ea8-8190-db423b90333f.mp4
 
 <h1>Wands A Blazing</h1>
 
-An upgrade system I made for a school project
+An upgrade system I made for a battle royale game
+
+[Trailer](https://youtu.be/vSWZHTEP5Oc)
+
+
 
 ``` 
         private void UpdateGun()
