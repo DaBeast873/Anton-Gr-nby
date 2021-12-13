@@ -29,7 +29,7 @@ Here's a gameplay trailer of the game
 
 
 
-[Gampelay trailer](https://user-images.githubusercontent.com/35632133/145808077-070109f0-2fac-496c-9a93-908981bd7c4d.mp4)
+
 
 
 
