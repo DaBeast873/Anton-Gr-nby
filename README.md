@@ -14,4 +14,4 @@ private void UpdateGun()
             _currentAmmo = _maxAmmo;
         }
 ``
-[test](https://github.com/DaBeast873/Anton-Gr-nby/blob/main/Blorb%20gameplay.gif)
+[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
