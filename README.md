@@ -27,7 +27,9 @@ private void StopWatchCalculation()
 
 Here's a gameplay trailer of the game
 
-[](https://user-images.githubusercontent.com/35632133/145803271-d20c089d-05cf-4ea8-8190-db423b90333f.mp4)
+https://user-images.githubusercontent.com/35632133/145807627-cac0dc8c-fde4-4d67-9ea1-6c625ed1440a.mp4
+
+
 
 <h1>Wands A Blazing</h1>
 
