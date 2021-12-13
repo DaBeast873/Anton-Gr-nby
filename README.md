@@ -27,7 +27,11 @@ private void StopWatchCalculation()
 
 Here's a gameplay trailer of the game
 
-https://user-images.githubusercontent.com/35632133/145807627-cac0dc8c-fde4-4d67-9ea1-6c625ed1440a.mp4
+
+
+https://user-images.githubusercontent.com/35632133/145808077-070109f0-2fac-496c-9a93-908981bd7c4d.mp4
+
+
 
 
 
