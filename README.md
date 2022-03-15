@@ -53,7 +53,7 @@ An upgrade system I made for the game
 
 <h1>Blorb</h1>
 
-I'm right now working with some 1st year classmates on a mobile plattformer for Android and IOS where I'm the head programmer.
+I worked on my exam project with some 1st year classmates on a mobile plattformer for Android and IOS where I was the head programmer.
 Some gameplay below
 
 ![Blorb gameplay](https://user-images.githubusercontent.com/35632133/145793548-617f3b51-28aa-4dc0-a114-c5e690af0d6e.gif)
@@ -80,6 +80,8 @@ Below is a coroutine I created that lets the player smoothly switch between 3 di
             _isScaling = false;
         }
 ```
+
+I'm right now having an internship at Grand Pike AB on their new IP
 
 <h1>Contact me</h1>
 
