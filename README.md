@@ -5,7 +5,7 @@ A unity game programmer who's right now studying 2nd year of game programming at
 
 <h1>STEEZY</h1>
 
-A snowboarding game me and a group of classmates made in ca 1 month that won the competition the school was holding. It also gained some interrest from investors stationed in Skellefteå. My role in the project was as Backend Programmer so I coded all the UI and also started on a leaderboard before the deadline
+A snowboarding game me and a group of classmates made in ca 1 month that won the competition the school was holding. It also gained some interest from investors stationed in Skellefteå. My role in the project was as a Backend Programmer so I coded all the UI and also started on a leaderboard before the deadline
 
 Below is a function I used to calculate the total time it took the player to finish a track
 ```
