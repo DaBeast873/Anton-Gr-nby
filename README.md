@@ -92,4 +92,6 @@ email: antonwg90@gmail.com
 
 phone: (+46)702393292
 
-[Here is my CV if you're interested](https://github.com/DaBeast873/Anton-Granby/files/8958582/CV.Anton.Granby.pdf)
+[Here is my CV if you're interested](https://github.com/DaBeast873/Anton-Granby/files/8958582/CV.Anton Granby.pdf)
+
+[CV Anton Gränby.pdf](https://github.com/DaBeast873/Anton-Granby/files/8958615/CV Anton Granby.pdf)
