@@ -81,7 +81,7 @@ Below is a coroutine I created that lets the player smoothly switch between 3 di
         }
 ```
 
-I'm right now having an internship at Grand Pike AB on their potentially new IP
+I've also had an internship at Grand Pike AB on their potentially new IP
 
 <h1>Contact me</h1>
 
