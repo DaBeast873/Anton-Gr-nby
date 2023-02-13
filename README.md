@@ -1,7 +1,8 @@
 ![1635324755630](https://user-images.githubusercontent.com/35632133/145798951-a256ee3e-2122-421d-9d56-a917c120afc9.jpg)
 
 
-A unity game programmer who's just graduated game programming at Futuregames Skellefteå.
+A unity game programmer who graduated game programming at Futuregames Skellefteå in May 2020 and is now looking to put my knowledge to the test.
+Here are some of the projects I've been working on
 
 <h1>STEEZY</h1>
 
